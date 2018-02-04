@@ -1,0 +1,4 @@
+# plik .gitignore projektu VirtualCamera
+/Debug
+/Release
+*.vcxproj*
